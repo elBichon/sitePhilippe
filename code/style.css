@@ -14,7 +14,7 @@ body {
 .navbar a {font-size: 16px;}
 .navbar .fa-external-link {font-size: 10px;}
 .main-heading {
-    color: white;
+    color: red;
     font-family: 'Open sans', sans-serif;
     font-weight: 300;
     text-align: center;
